@@ -2,7 +2,7 @@
 
 ![](ActiveWeaving.jpg)
 
-Working with the [Self Assembly Lab](http://www.selfassemblylab.net), I explored how to fabricate shape-changing "active" textiles and woven materials.
+Working with the MIT [Self Assembly Lab](http://www.selfassemblylab.net), I explored how to fabricate textiles and woven materials able to change shape under different environmental conditions. By modifying how the fabric is woven, different behaviors can be "programmed".
 
 ![](ActiveWeaving2.jpg)
 
