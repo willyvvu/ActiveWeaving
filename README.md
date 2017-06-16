@@ -1,8 +1,8 @@
 # Active Weaving
 
-![](ActiveWeaving.jpg)
-
 Working with the [Self Assembly Lab](http://www.selfassemblylab.net), I explored how to fabricate textiles and woven materials that change shape under different environmental conditions. With such a material, different behaviors can be "programmed" by changing the underlying patterns and geometries used in the weaving process.
+
+![](ActiveWeaving.jpg)
 
 ![](ActiveWeaving2.jpg)
 
